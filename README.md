@@ -5,7 +5,7 @@
 <p align="center">
 <a href="mailto:smilla.dion@live.dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg" alt="smilla.dion@live.dk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/smilladion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smilladion" height="30" width="40" /></a>
-<a href="https://discord.gg/Chainsaw#7801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Chainsaw#7801" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/Chainsaw#7801/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Chainsaw#7801" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
