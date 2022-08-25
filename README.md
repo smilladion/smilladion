@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smilla</h1>
-<h3 align="center">I am a student at the IT University of Copenhagen</h3>
+<h3 align="center">I am a software developer</h3>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
